@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
-![jjubbu's github stats](https://github-readme-stats.vercel.app/api?username=jjubbu&theme=highcontrast&show_icons=true)
+![jjubbu's github stats](https://github-readme-stats.vercel.app/api?username=jjubbu&theme=swift&show_icons=true)
 
-[![jjubbu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjubbu&show_icons=true&hide_border=true&theme=highcontrast&layout=compact)](https://github.com/jjubbu)
+[![jjubbu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjubbu&show_icons=true&hide_border=true&theme=swift&layout=compact)](https://github.com/jjubbu)
