@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=black">
+<img src="https://img.shields.io/badge/vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black">
 
 
 ![jjubbu's github stats](https://github-readme-stats.vercel.app/api?username=jjubbu&theme=swift&show_icons=true)
