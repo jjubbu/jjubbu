@@ -1,7 +1,4 @@
-### 소통과 열정의 프론트엔드 새싹 🌱
 
-99년생 심선아, 이런저런 코딩을 애정합니다!<br/>
-코드브릭 근무중~ <br/>
 
 [![Gmail Badge](https://img.shields.io/badge/hogugugut4102.off@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hogugugut4102.off@gmail.com)](mailto:hogugugut4102.off@gmail.com)
 ![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjjyabbu4244)
