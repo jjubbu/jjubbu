@@ -1,7 +1,6 @@
 
 
-[![Gmail Badge](https://img.shields.io/badge/hogugugut4102.off@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hogugugut4102.off@gmail.com)](mailto:hogugugut4102.off@gmail.com)
-![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjjyabbu4244)
+[![Gmail Badge](https://img.shields.io/badge/seonashim@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seonashim@gmail.com)](mailto:seonashim@gmail.com)
 
 
 ###  🔌 기술스택
